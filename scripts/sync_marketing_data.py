@@ -13,6 +13,7 @@ import tempfile
 import time
 from collections import Counter
 from datetime import datetime, timedelta
+from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlencode, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
@@ -46,6 +47,7 @@ META_GRAPH_VERSION = "v27.0"
 META_REFRESH_INTERVAL = timedelta(hours=24)
 PUBLIC_PROFILE_CACHE = Path.home() / ".config" / "lypid" / "public-instagram-followers.json"
 PUBLIC_PROFILE_REFRESH_INTERVAL = timedelta(hours=24)
+PUBLIC_PROFILE_RETRY_INTERVAL = timedelta(hours=1)
 PUBLIC_PROFILE_HISTORY = ROOT / "data" / "followers-history.json"
 
 
@@ -255,33 +257,75 @@ def extract_instagram_followers(profile_url):
     try:
         with urlopen(request, timeout=8) as response:
             page = response.read().decode("utf-8", "ignore")
-        match = re.search(r'<meta[^>]+(?:property|name)=["\'](?:og:description|description)["\'][^>]+content=["\']([^"\']*[0-9][^"\']*Followers[^"\']*)["\']', page, re.I)
-        if not match:
-            match = re.search(r'<meta[^>]+content=["\']([^"\']*[0-9][^"\']*Followers[^"\']*)["\'][^>]+(?:property|name)=["\'](?:og:description|description)["\']', page, re.I)
-        if not match:
-            return None
-        text = html.unescape(match.group(1))
-        count_match = re.search(r"([0-9][0-9,\.]*)(?:K|M|B)?\s+Followers", text, re.I)
-        if not count_match:
-            return None
-        return int(float(count_match.group(1).replace(",", "")))
+        return parse_instagram_follower_count(page)
     except Exception:
         return None
+
+
+def parse_instagram_follower_count(page):
+    page = html.unescape(page)
+    structured_count_patterns = (
+        r'"edge_followed_by"\s*:\s*\{\s*"count"\s*:\s*(\d+)',
+        r'"(?:follower_count|followers_count|followersCount)"\s*:\s*(\d+)',
+    )
+    for pattern in structured_count_patterns:
+        match = re.search(pattern, page, re.I)
+        if match:
+            return int(match.group(1))
+
+    class DescriptionParser(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.descriptions = []
+
+        def handle_starttag(self, tag, attrs):
+            if tag.lower() != "meta":
+                return
+            metadata = {key.lower(): value for key, value in attrs if key and value}
+            name = metadata.get("property", metadata.get("name", "")).lower()
+            content = metadata.get("content", "")
+            if name in {"og:description", "description"} and content:
+                self.descriptions.append(content)
+
+    parser = DescriptionParser()
+    parser.feed(page)
+    for description in parser.descriptions:
+        count_match = re.search(
+            r"(?<![\w.])(\d[\d,]*(?:\.\d+)?)\s*([KMB])?\s+Followers\b",
+            description,
+            re.I,
+        )
+        if not count_match:
+            continue
+        count = float(count_match.group(1).replace(",", ""))
+        multiplier = {"K": 1_000, "M": 1_000_000, "B": 1_000_000_000}
+        count *= multiplier.get((count_match.group(2) or "").upper(), 1)
+        return int(count + 0.5)
+    return None
 
 
 def refresh_public_instagram_followers(rows):
     cache = load_json_file(PUBLIC_PROFILE_CACHE, {})
     now = datetime.now().astimezone()
     updated = 0
+    failed = 0
     for row in rows:
         if platform_for(row) != "Instagram":
             row["_followersSource"] = "sheet"
             continue
+        if row.get("_followersSource") == "meta" and row.get("_followersExact") is not None:
+            continue
         profile_url = public_profile_url(row.get("Social"))
         username = instagram_username(profile_url)
         cache_entry = cache.get(username, {}) if username else {}
-        checked_at = parse_iso_time(cache_entry.get("checkedAt") or cache_entry.get("attemptedAt"))
-        fresh = checked_at and now - checked_at < PUBLIC_PROFILE_REFRESH_INTERVAL
+        checked_at = parse_iso_time(cache_entry.get("checkedAt"))
+        attempted_at = parse_iso_time(cache_entry.get("attemptedAt"))
+        has_cached_count = cache_entry.get("followers") is not None
+        fresh = (
+            checked_at and now - checked_at < PUBLIC_PROFILE_REFRESH_INTERVAL
+            if has_cached_count
+            else attempted_at and now - attempted_at < PUBLIC_PROFILE_RETRY_INTERVAL
+        )
         if username and not fresh:
             exact = extract_instagram_followers(profile_url)
             stamp = now.isoformat(timespec="seconds")
@@ -289,6 +333,8 @@ def refresh_public_instagram_followers(rows):
             if exact is not None:
                 cache_entry.update({"followers": exact, "checkedAt": stamp})
                 updated += 1
+            else:
+                failed += 1
             cache[username] = cache_entry
             time.sleep(0.12)
         if cache_entry.get("followers") is not None:
@@ -301,7 +347,7 @@ def refresh_public_instagram_followers(rows):
             row["_followersSource"] = "sheet"
     if cache:
         write_private_json(PUBLIC_PROFILE_CACHE, cache)
-    return {"updatedProfiles": updated, "source": "public-profile-page"}
+    return {"updatedProfiles": updated, "failedProfiles": failed, "source": "public-profile-page"}
 
 
 def save_follower_history(rows):
@@ -311,17 +357,22 @@ def save_follower_history(rows):
         "date": day,
         "instagram": {},
         "tiktok": {},
+        "sources": {"instagram": {}, "tiktok": {}},
     }
     for row in rows:
         platform = platform_for(row)
         if platform == "Instagram":
             exact = row.get("_followersExact")
             if exact is not None:
-                snapshot["instagram"][row.get("Name", "").strip()] = int(exact)
+                name = row.get("Name", "").strip()
+                snapshot["instagram"][name] = int(exact)
+                snapshot["sources"]["instagram"][name] = row.get("_followersSource", "sheet")
         elif platform == "TikTok":
             exact = number_or_none(row.get("Followers (K)"))
             if exact is not None:
-                snapshot["tiktok"][row.get("Name", "").strip()] = round(exact * 1000)
+                name = row.get("Name", "").strip()
+                snapshot["tiktok"][name] = round(exact * 1000)
+                snapshot["sources"]["tiktok"][name] = "sheet"
     days = history.setdefault("days", [])
     days = [entry for entry in days if entry.get("date") != day]
     days.append(snapshot)

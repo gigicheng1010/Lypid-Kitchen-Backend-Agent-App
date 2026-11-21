@@ -73,15 +73,17 @@ function formatExactFollowerCount(exact) {
   return `${m.toFixed(m >= 10 ? 1 : 2).replace(/\.0+$/, "").replace(/(\.\d)0$/, "$1")}M`;
 }
 
-function formatFollowerTrend(platformName, creatorName, currentExact) {
+function formatFollowerTrend(platformName, creatorName, currentExact, currentSource) {
   if (!followerHistory || !Array.isArray(followerHistory.days) || followerHistory.days.length < 2 || currentExact === null || currentExact === undefined) return "";
   const platformKey = platformName === "Instagram" ? "instagram" : "tiktok";
   const days = followerHistory.days;
   const previous = [...days].reverse().slice(1).find((day) => day[platformKey] && Number.isFinite(day[platformKey][creatorName]));
   if (!previous) return "";
+  const previousSource = previous.sources?.[platformKey]?.[creatorName];
+  if (previousSource && currentSource && previousSource !== currentSource) return "";
   const previousExact = Number(previous[platformKey][creatorName]);
   const difference = Number(currentExact) - previousExact;
-  if (!difference) return `<span class="follower-trend neutral">— 0</span>`;
+  if (!difference) return "";
   if (difference > 0) return `<span class="follower-trend up">▲ +${formatExactFollowerCount(Math.abs(difference))}</span>`;
   return `<span class="follower-trend down">▼ −${formatExactFollowerCount(Math.abs(difference))}</span>`;
 }
@@ -212,7 +214,7 @@ function renderCreatorDialogResults() {
       : Number.isFinite(Number(creator.followersK))
         ? Math.round(Number(creator.followersK) * 1000)
         : null;
-    const trend = formatFollowerTrend(dialog._platformName, creator.name, currentTrendExact);
+    const trend = formatFollowerTrend(dialog._platformName, creator.name, currentTrendExact, creator.followersSource || "sheet");
     return `<article class="creator-result"><div><a class="creator-profile-link" href="${escapeSyncHtml(creator.profileUrl)}" target="_blank" rel="noreferrer">${escapeSyncHtml(creator.name)} ↗</a><p>${escapeSyncHtml(creator.profileUrl)}</p><span class="creator-original-feature">原始特色：${escapeSyncHtml(creator.feature || "未標記")}</span></div><div class="creator-result-meta"><span>${escapeSyncHtml(followers)} ${trend}</span><span>${escapeSyncHtml(tier)}</span><span>${escapeSyncHtml(phase)}</span></div></article>`;
   }).join("") : `<div class="creator-dialog-empty">沒有符合條件的創作者。</div>`;
 }

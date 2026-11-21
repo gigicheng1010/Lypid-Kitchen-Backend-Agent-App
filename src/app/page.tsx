@@ -8,7 +8,7 @@ import type { CampaignStatus, Creator, Deliverable, PaymentStatus } from "@/lib/
 const statuses: CampaignStatus[] = ["Outreach", "Negotiating", "Address Received", "Package Shipped", "Content Pending", "Completed"];
 const deliverables: Deliverable[] = ["IG Collab Reel", "TikTok Post", "Pure UGC"];
 const statusTone: Record<CampaignStatus, string> = { Outreach: "bg-[#eee6dc] text-[#76675b]", Negotiating: "bg-[#fce2bb] text-[#a65c24]", "Address Received": "bg-[#e5dfd4] text-[#6e6255]", "Package Shipped": "bg-[#dce8e0] text-[#4d735b]", "Content Pending": "bg-[#f8dcd2] text-[#a84f35]", Completed: "bg-[#d4e6d5] text-[#397044]" };
-const formatFollowers = (count: number) => count >= 1000 ? `${(count / 1000).toFixed(count % 1000 === 0 ? 0 : 1)}k` : count.toString();
+const formatFollowers = (count: number) => count >= 1_000_000 ? `${(count / 1_000_000).toFixed(1)}m` : count >= 10_000 ? `${(count / 1000).toFixed(count % 1000 === 0 ? 0 : 1)}k` : count.toLocaleString("en-US");
 
 function Pill({ children, tone = "bg-[#f0e9e1] text-[#76675b]" }: { children: React.ReactNode; tone?: string }) { return <span className={`inline-flex items-center rounded-full px-2.5 py-1 text-[11px] font-semibold whitespace-nowrap ${tone}`}>{children}</span>; }
 

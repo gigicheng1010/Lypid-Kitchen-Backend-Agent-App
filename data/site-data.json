@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:21:23-08:00",
+  "generatedAt": "2026-11-20T22:56:00-08:00",
   "online": {
     "total": 168,
     "platforms": {
@@ -260,10 +260,10 @@
           {
             "name": "Audrey Lee",
             "profileUrl": "https://www.instagram.com/audrey.e.lee",
-            "followersK": 0.878,
-            "followersExact": null,
-            "followersSource": "sheet",
-            "followersCheckedAt": "",
+            "followersK": 0.882,
+            "followersExact": 882,
+            "followersSource": "public-page",
+            "followersCheckedAt": "2026-11-20T22:51:14-08:00",
             "tier": "PR Box",
             "phase": "Shipped / Ordered",
             "feature": "冰上輪滑運動員"

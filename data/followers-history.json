@@ -2,7 +2,9 @@
   "days": [
     {
       "date": "2026-11-20",
-      "instagram": {},
+      "instagram": {
+        "Audrey Lee": 882
+      },
       "tiktok": {
         "Hannah Lee": 10700,
         "Hina Nakamura": 7312,
@@ -25,6 +27,12 @@
         "Molly": 5523,
         "Olivia Hart": 658,
         "Chloejacquee": 27600
+      },
+      "sources": {
+        "instagram": {
+          "Audrey Lee": "public-page"
+        },
+        "tiktok": {}
       }
     }
   ]
