@@ -1,0 +1,2299 @@
+{
+  "generatedAt": "2026-11-20T22:21:23-08:00",
+  "online": {
+    "total": 168,
+    "platforms": {
+      "Instagram": {
+        "total": 147,
+        "tiers": {
+          "PR Box": 141,
+          "Paid Collab": 6
+        },
+        "phases": {
+          "Accepted (Preparing)": 3,
+          "Shipped / Ordered": 27,
+          "Completed": 10,
+          "Outreached (Waiting)": 106,
+          "Rejected": 1
+        },
+        "posting": {
+          "(空白)": 142,
+          "Posted": 4,
+          "Received": 1
+        },
+        "followersK": {
+          "under10": 33,
+          "from10To50": 51,
+          "over50": 63,
+          "median": 36.0
+        },
+        "paidCollaborations": {
+          "count": 6,
+          "recordedAmount": 1250.0,
+          "averageRate": 208.33
+        },
+        "topFeatures": [
+          [
+            "Dietitian",
+            36
+          ],
+          [
+            "Healthy lifestyle",
+            23
+          ],
+          [
+            "Hiker",
+            9
+          ],
+          [
+            "Vegan",
+            9
+          ],
+          [
+            "健康 漂亮vlogger",
+            8
+          ],
+          [
+            "Foodie",
+            7
+          ],
+          [
+            "時尚 美妝",
+            4
+          ],
+          [
+            "Asian 健康 漂亮vlogger",
+            3
+          ],
+          [
+            "Food blogger / Foodie",
+            3
+          ],
+          [
+            "家庭 vlogger",
+            3
+          ],
+          [
+            "Asian vlogger",
+            2
+          ],
+          [
+            "一天穿搭+早晨",
+            2
+          ],
+          [
+            "Healthy lifesytle",
+            2
+          ],
+          [
+            "Tennis Player",
+            1
+          ],
+          [
+            "冰上輪滑運動員",
+            1
+          ],
+          [
+            "做咖啡 setup漂亮",
+            1
+          ],
+          [
+            "早餐優格製作",
+            1
+          ],
+          [
+            "City walk 女生 NYC",
+            1
+          ],
+          [
+            "專業UGC nyc",
+            1
+          ],
+          [
+            "食譜 做麵包",
+            1
+          ],
+          [
+            "Flight Attendant",
+            1
+          ],
+          [
+            "Asian Vegan",
+            1
+          ],
+          [
+            "Asian vegan recipes",
+            1
+          ],
+          [
+            "Coffee / Coffee recipes",
+            1
+          ],
+          [
+            "Food & dessert / Recipes",
+            1
+          ],
+          [
+            "Lifestyle / Aesthetic food",
+            1
+          ],
+          [
+            "Lifestyle / Daily vlog",
+            1
+          ],
+          [
+            "Lifestyle creator",
+            1
+          ],
+          [
+            "Travel / Outdoor lifestyle",
+            1
+          ],
+          [
+            "vegan",
+            1
+          ],
+          [
+            "Vegan & GF recipes",
+            1
+          ],
+          [
+            "Vegan chef",
+            1
+          ],
+          [
+            "Vegan food / Dining guide",
+            1
+          ],
+          [
+            "Vegan food & travel / Restaurant guide",
+            1
+          ],
+          [
+            "Vegan recipes",
+            1
+          ],
+          [
+            "Vegan 白女",
+            1
+          ],
+          [
+            "健身 時尚 vlogger",
+            1
+          ],
+          [
+            "咖啡師 vlogger",
+            1
+          ],
+          [
+            "護士",
+            1
+          ],
+          [
+            "辦公室飲食",
+            1
+          ],
+          [
+            "運動 帥哥 白男",
+            1
+          ],
+          [
+            "Vegan Foodie",
+            1
+          ],
+          [
+            "hiker",
+            1
+          ],
+          [
+            "Vegan food / Fast food reviews",
+            1
+          ],
+          [
+            "法學生 健身",
+            1
+          ],
+          [
+            "Lifestyle / Travel",
+            1
+          ],
+          [
+            "Vlogger",
+            1
+          ],
+          [
+            "粉絲多 喜歡產品",
+            1
+          ],
+          [
+            "醫生 Asian 漂亮",
+            1
+          ]
+        ],
+        "followersSourceCounts": {
+          "sheet": 147
+        },
+        "followersCheckedAt": "",
+        "creators": [
+          {
+            "name": "Michelle Lee",
+            "profileUrl": "https://www.instagram.com/michellejeeisme",
+            "followersK": 1.973,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Accepted (Preparing)",
+            "feature": "Asian vlogger"
+          },
+          {
+            "name": "Arisha Ladhani",
+            "profileUrl": "https://www.instagram.com/wakeupandkale",
+            "followersK": 110.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Accepted (Preparing)",
+            "feature": "Tennis Player"
+          },
+          {
+            "name": "Audrey Lee",
+            "profileUrl": "https://www.instagram.com/audrey.e.lee",
+            "followersK": 0.878,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "冰上輪滑運動員"
+          },
+          {
+            "name": "Jules Nguyen",
+            "profileUrl": "https://www.instagram.com/jules.nguyenn",
+            "followersK": 1.659,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Accepted (Preparing)",
+            "feature": "Asian 健康 漂亮vlogger"
+          },
+          {
+            "name": "Alyssa Hawkins",
+            "profileUrl": "https://www.instagram.com/coffeebylyss",
+            "followersK": 3.48,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Completed",
+            "feature": "做咖啡 setup漂亮"
+          },
+          {
+            "name": "Maria",
+            "profileUrl": "https://www.instagram.com/__mariaponce/reels",
+            "followersK": 7.491,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Completed",
+            "feature": "早餐優格製作"
+          },
+          {
+            "name": "Ashleigh",
+            "profileUrl": "https://www.instagram.com/ashleighlitzsinger",
+            "followersK": 5.707,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Completed",
+            "feature": "City walk 女生 NYC"
+          },
+          {
+            "name": "Arianne",
+            "profileUrl": "https://www.instagram.com/jeanariii",
+            "followersK": 16.7,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Completed",
+            "feature": "專業UGC nyc"
+          },
+          {
+            "name": "Bridget",
+            "profileUrl": "https://www.instagram.com/bites.withbridge",
+            "followersK": 1.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Completed",
+            "feature": "食譜 做麵包"
+          },
+          {
+            "name": "Clara",
+            "profileUrl": "https://www.instagram.com/yourdietitianbff",
+            "followersK": 46.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Completed",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Gabriella",
+            "profileUrl": "https://www.instagram.com/builtbygabby_",
+            "followersK": 13.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Completed",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Hybee Huh",
+            "profileUrl": "https://www.instagram.com/hybeereviews",
+            "followersK": 253.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Completed",
+            "feature": "Foodie"
+          },
+          {
+            "name": "Fiona",
+            "profileUrl": "https://www.instagram.com/fionahlin",
+            "followersK": 33.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Completed",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Nadia",
+            "profileUrl": "https://www.instagram.com/thenadilew",
+            "followersK": 8.922,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Completed",
+            "feature": "Flight Attendant"
+          },
+          {
+            "name": "Rose Lee",
+            "profileUrl": "https://www.instagram.com/cheaplazyvegan",
+            "followersK": 207.1,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Asian Vegan"
+          },
+          {
+            "name": "Tiffany Bach",
+            "profileUrl": "https://www.instagram.com/tifflovestofu",
+            "followersK": 205.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Asian vegan recipes"
+          },
+          {
+            "name": "Muye",
+            "profileUrl": "https://www.instagram.com/bymuye",
+            "followersK": 102.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Asian vlogger"
+          },
+          {
+            "name": "Julia Hsiao",
+            "profileUrl": "https://www.instagram.com/j_hsiao",
+            "followersK": 18.1,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Asian 健康 漂亮vlogger"
+          },
+          {
+            "name": "Alina",
+            "profileUrl": "https://www.instagram.com/_caffeinecontent",
+            "followersK": 3.962,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Coffee / Coffee recipes"
+          },
+          {
+            "name": "Cassandra Lepore",
+            "profileUrl": "https://www.instagram.com/dietitiancass",
+            "followersK": 133.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Jillian Genna",
+            "profileUrl": "https://www.instagram.com/jilliangenna_dietitian",
+            "followersK": 3.958,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Mia Swinehart",
+            "profileUrl": "https://www.instagram.com/gatherednutrition",
+            "followersK": 595.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Lisa Kondi",
+            "profileUrl": "https://www.instagram.com/bodybykondi",
+            "followersK": 38.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Lulu Jordon",
+            "profileUrl": "https://www.instagram.com/lulucjordon",
+            "followersK": 96.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Dr. Natazia zu Stolberg",
+            "profileUrl": "https://www.instagram.com/dr.nataziazustolberg",
+            "followersK": 91.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Lainie Kates",
+            "profileUrl": "https://www.instagram.com/lainiecooks_",
+            "followersK": 620.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Sisley Killam",
+            "profileUrl": "https://www.instagram.com/theacnenutritionist",
+            "followersK": 70.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Lindsay Pleskot",
+            "profileUrl": "https://www.instagram.com/lindsaypleskot.rd",
+            "followersK": 65.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Cloie Neeley",
+            "profileUrl": "https://www.instagram.com/nourishment.nutrition",
+            "followersK": 310.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Madison Lawrie",
+            "profileUrl": "https://www.instagram.com/dietitian.madison",
+            "followersK": 49.5,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "En Min Saw",
+            "profileUrl": "https://www.instagram.com/good.food.gang",
+            "followersK": 123.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Sophie Rindfleish",
+            "profileUrl": "https://www.instagram.com/healthybodhealthymind",
+            "followersK": 67.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Caity B",
+            "profileUrl": "https://www.instagram.com/caityb.wellness",
+            "followersK": 2.118,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Lauren",
+            "profileUrl": "https://www.instagram.com/laurensbalancedbites",
+            "followersK": 37.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Kate",
+            "profileUrl": "https://www.instagram.com/wholesomechicknutrition",
+            "followersK": 44.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Gabby",
+            "profileUrl": "https://www.instagram.com/noglutengabby",
+            "followersK": 86.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Mattie",
+            "profileUrl": "https://www.instagram.com/dailydoseof.rose",
+            "followersK": 268.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Leah",
+            "profileUrl": "https://www.instagram.com/wrkwithleah",
+            "followersK": 77.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Abbie",
+            "profileUrl": "https://www.instagram.com/abbieattwoodwellness",
+            "followersK": 56.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Nicole",
+            "profileUrl": "https://www.instagram.com/nicolecruzrd",
+            "followersK": 35.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Hannah",
+            "profileUrl": "https://www.instagram.com/theconsciousnutritionist",
+            "followersK": 275.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Tiffany",
+            "profileUrl": "https://www.instagram.com/tiffanyma_rdn",
+            "followersK": 20.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Christina",
+            "profileUrl": "https://www.instagram.com/christinaychu",
+            "followersK": 12.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Marie",
+            "profileUrl": "https://www.instagram.com/mariespano",
+            "followersK": 47.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Danielle",
+            "profileUrl": "https://www.instagram.com/ohsnapmacros",
+            "followersK": 225.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Camille",
+            "profileUrl": "https://www.instagram.com/camille_inthekitchen",
+            "followersK": 87.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Nicole",
+            "profileUrl": "https://www.instagram.com/nourishedbynic",
+            "followersK": 890.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Sammi",
+            "profileUrl": "https://www.instagram.com/sammibrondo.rd",
+            "followersK": 264.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Jamie",
+            "profileUrl": "https://www.instagram.com/the.balanced.nutritionist",
+            "followersK": 944.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Rachel",
+            "profileUrl": "https://www.instagram.com/rachelfiore_",
+            "followersK": 11.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Carli Mangum",
+            "profileUrl": "https://www.instagram.com/carlimangum",
+            "followersK": 29.6,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Food & dessert / Recipes"
+          },
+          {
+            "name": "Nora",
+            "profileUrl": "https://www.instagram.com/eatwithnora",
+            "followersK": 18.1,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Food blogger / Foodie"
+          },
+          {
+            "name": "Joyce",
+            "profileUrl": "https://www.instagram.com/coffeewithjoyce",
+            "followersK": 21.1,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Food blogger / Foodie"
+          },
+          {
+            "name": "Estella",
+            "profileUrl": "https://www.instagram.com/earth.to.et",
+            "followersK": 10.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Food blogger / Foodie"
+          },
+          {
+            "name": "Maggie",
+            "profileUrl": "https://www.instagram.com/maggswitt",
+            "followersK": 18.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Gwyneth",
+            "profileUrl": "https://www.instagram.com/gwynethyuma",
+            "followersK": 250.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Lana",
+            "profileUrl": "https://www.instagram.com/minne.eats",
+            "followersK": 29.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Katie",
+            "profileUrl": "https://www.instagram.com/katieaustin",
+            "followersK": 485.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Natasha",
+            "profileUrl": "https://www.instagram.com/natashapehrson",
+            "followersK": 1000.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Kristen",
+            "profileUrl": "https://www.instagram.com/callmekristenmarie",
+            "followersK": 501.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Katy",
+            "profileUrl": "https://www.instagram.com/katylmundy",
+            "followersK": 40.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Olha",
+            "profileUrl": "https://www.instagram.com/olha.nezdiur",
+            "followersK": 35.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Jade",
+            "profileUrl": "https://www.instagram.com/the_jade_life",
+            "followersK": 12.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Blayne",
+            "profileUrl": "https://www.instagram.com/blaynesadventures",
+            "followersK": 107.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Celine",
+            "profileUrl": "https://www.instagram.com/celinekmn",
+            "followersK": 18.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Egg",
+            "profileUrl": "https://www.instagram.com/eggisoutside",
+            "followersK": 6.226,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Hiker"
+          },
+          {
+            "name": "Lexi",
+            "profileUrl": "https://www.instagram.com/lexisummits",
+            "followersK": 313.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Hiker"
+          },
+          {
+            "name": "Elise",
+            "profileUrl": "https://www.instagram.com/eliseseats_",
+            "followersK": 85.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Hiker"
+          },
+          {
+            "name": "Holly",
+            "profileUrl": "https://www.instagram.com/missholldoll",
+            "followersK": 433.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Hiker"
+          },
+          {
+            "name": "Ava",
+            "profileUrl": "https://www.instagram.com/avatank.fit",
+            "followersK": 15.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Hiker"
+          },
+          {
+            "name": "Abby",
+            "profileUrl": "https://www.instagram.com/pnw_abby",
+            "followersK": 61.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Hiker"
+          },
+          {
+            "name": "Sara",
+            "profileUrl": "https://www.instagram.com/sightsofsara",
+            "followersK": 221.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Hiker"
+          },
+          {
+            "name": "Sydney",
+            "profileUrl": "https://www.instagram.com/sydneysky_",
+            "followersK": 124.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Hiker"
+          },
+          {
+            "name": "Mikoo",
+            "profileUrl": "https://www.instagram.com/_mikoo",
+            "followersK": 88.4,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Lifestyle / Aesthetic food"
+          },
+          {
+            "name": "Ella Wang",
+            "profileUrl": "https://www.instagram.com/ellawngg",
+            "followersK": 64.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Lifestyle / Daily vlog"
+          },
+          {
+            "name": "Natalie Linan",
+            "profileUrl": "https://www.instagram.com/natalie_linan",
+            "followersK": 9.404,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Lifestyle creator"
+          },
+          {
+            "name": "Nicole Sisson",
+            "profileUrl": "https://www.instagram.com/n.sisson",
+            "followersK": 132.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Travel / Outdoor lifestyle"
+          },
+          {
+            "name": "Maggie",
+            "profileUrl": "https://www.instagram.com/maggieeatsvegan",
+            "followersK": 56.7,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "vegan"
+          },
+          {
+            "name": "Yvonne Ardestani",
+            "profileUrl": "https://www.instagram.com/yvonnesvegankitchen",
+            "followersK": 86.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Vegan"
+          },
+          {
+            "name": "Remy Park",
+            "profileUrl": "https://www.instagram.com/veggiekins",
+            "followersK": 221.4,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Vegan & GF recipes"
+          },
+          {
+            "name": "Gabrielle Reyes",
+            "profileUrl": "https://www.instagram.com/onegreatvegan",
+            "followersK": 280.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Vegan chef"
+          },
+          {
+            "name": "Erica Korff",
+            "profileUrl": "https://www.instagram.com/vegan_kween",
+            "followersK": 22.1,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Vegan food / Dining guide"
+          },
+          {
+            "name": "Eunice Reyes",
+            "profileUrl": "https://www.instagram.com/ratedvfood",
+            "followersK": 43.1,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Vegan food & travel / Restaurant guide"
+          },
+          {
+            "name": "Ashley Hankins",
+            "profileUrl": "https://www.instagram.com/eat_figs_not_pigs",
+            "followersK": 343.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Vegan recipes"
+          },
+          {
+            "name": "Raquel",
+            "profileUrl": "https://www.instagram.com/myveganlady",
+            "followersK": 18.4,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Vegan 白女"
+          },
+          {
+            "name": "Diane",
+            "profileUrl": "https://www.instagram.com/thedianele/reels",
+            "followersK": 61.3,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "一天穿搭+早晨"
+          },
+          {
+            "name": "Mariela",
+            "profileUrl": "https://www.instagram.com/mariiismith/reels",
+            "followersK": 18.9,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "一天穿搭+早晨"
+          },
+          {
+            "name": "Jade",
+            "profileUrl": "https://www.instagram.com/jadebyurjade",
+            "followersK": 10.7,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健康 漂亮vlogger"
+          },
+          {
+            "name": "Christine",
+            "profileUrl": "https://www.instagram.com/xtineseo",
+            "followersK": 40.6,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健康 漂亮vlogger"
+          },
+          {
+            "name": "Chantelle",
+            "profileUrl": "https://www.instagram.com/chantysrz",
+            "followersK": 14.1,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健康 漂亮vlogger"
+          },
+          {
+            "name": "Gizell Lien",
+            "profileUrl": "https://www.instagram.com/gizelllien",
+            "followersK": 2.548,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健康 漂亮vlogger"
+          },
+          {
+            "name": "Days & Details",
+            "profileUrl": "https://www.instagram.com/dreamy.littleplace/reels",
+            "followersK": 0.2,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健康 漂亮vlogger"
+          },
+          {
+            "name": "Sara Michele",
+            "profileUrl": "https://www.instagram.com/sarammichelee",
+            "followersK": 23.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健康 漂亮vlogger"
+          },
+          {
+            "name": "Eloise Smith",
+            "profileUrl": "https://www.instagram.com/eloisesmith_",
+            "followersK": 39.1,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健康 漂亮vlogger"
+          },
+          {
+            "name": "Alyssa Steffen",
+            "profileUrl": "https://www.instagram.com/alyssamaesteffen",
+            "followersK": 6.49,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健康 漂亮vlogger"
+          },
+          {
+            "name": "Ankita Garg",
+            "profileUrl": "https://www.instagram.com/lifeofankii",
+            "followersK": 10.3,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健身 時尚 vlogger"
+          },
+          {
+            "name": "Mallory Morris",
+            "profileUrl": "https://www.instagram.com/malloryonthemoon",
+            "followersK": 216.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "咖啡師 vlogger"
+          },
+          {
+            "name": "Linsey Woods",
+            "profileUrl": "https://www.instagram.com/linseywoods.home",
+            "followersK": 145.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "家庭 vlogger"
+          },
+          {
+            "name": "Bri Davis",
+            "profileUrl": "https://www.instagram.com/brinicoleox",
+            "followersK": 15.1,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "家庭 vlogger"
+          },
+          {
+            "name": "Kimberly Vuong",
+            "profileUrl": "https://www.instagram.com/kimberllyvuong",
+            "followersK": 10.2,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "時尚 美妝"
+          },
+          {
+            "name": "Rae Hersey",
+            "profileUrl": "https://www.instagram.com/rae.hersey",
+            "followersK": 151.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "時尚 美妝"
+          },
+          {
+            "name": "Caitlin Patton",
+            "profileUrl": "https://www.instagram.com/caitpatton",
+            "followersK": 17.8,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "時尚 美妝"
+          },
+          {
+            "name": "Alexa Ross",
+            "profileUrl": "https://www.instagram.com/alexaxross",
+            "followersK": 7.349,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "護士"
+          },
+          {
+            "name": "Megan",
+            "profileUrl": "https://www.instagram.com/meganhunting/reels",
+            "followersK": 6.484,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "辦公室飲食"
+          },
+          {
+            "name": "Tate",
+            "profileUrl": "https://www.instagram.com/tate_be",
+            "followersK": 76.9,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "運動 帥哥 白男"
+          },
+          {
+            "name": "Hannah",
+            "profileUrl": "https://www.instagram.com/foodiieforfun",
+            "followersK": 23.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Foodie"
+          },
+          {
+            "name": "Tho Pham",
+            "profileUrl": "https://www.instagram.com/bythopham",
+            "followersK": 297.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Foodie"
+          },
+          {
+            "name": "McKenna",
+            "profileUrl": "https://www.instagram.com/mckennahashcroft",
+            "followersK": 28.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Sandy",
+            "profileUrl": "https://www.instagram.com/sandaypost",
+            "followersK": 2.011,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Cynthia",
+            "profileUrl": "https://www.instagram.com/cboothangcooks",
+            "followersK": 911.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Jass",
+            "profileUrl": "https://www.instagram.com/jassmeredith",
+            "followersK": 172.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Mikie",
+            "profileUrl": "https://www.instagram.com/mikiedegraaf",
+            "followersK": 1.178,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Foodie"
+          },
+          {
+            "name": "Alex",
+            "profileUrl": "https://www.instagram.com/veggininthecity",
+            "followersK": 428.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Foodie"
+          },
+          {
+            "name": "Adina",
+            "profileUrl": "https://www.instagram.com/vegangirlboss",
+            "followersK": 687.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Vegan Foodie"
+          },
+          {
+            "name": "Alanna",
+            "profileUrl": "https://www.instagram.com/itsbyalanna",
+            "followersK": 9.118,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Foodie"
+          },
+          {
+            "name": "Chrystelle",
+            "profileUrl": "https://www.instagram.com/chrystelle.marie_",
+            "followersK": 775.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Foodie"
+          },
+          {
+            "name": "Olivia",
+            "profileUrl": "https://www.instagram.com/oliviasomersille",
+            "followersK": 20.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifesytle"
+          },
+          {
+            "name": "Bree",
+            "profileUrl": "https://www.instagram.com/breeannemartin",
+            "followersK": 6.825,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifesytle"
+          },
+          {
+            "name": "Zack & Lina",
+            "profileUrl": "https://www.instagram.com/zackandlina",
+            "followersK": 4.132,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "hiker"
+          },
+          {
+            "name": "Abby",
+            "profileUrl": "https://www.instagram.com/abbyfaytidd/reels",
+            "followersK": 12.4,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Maggie",
+            "profileUrl": "https://www.instagram.com/maggieeatsvegan",
+            "followersK": 59.8,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Rejected",
+            "feature": "Vegan food / Fast food reviews"
+          },
+          {
+            "name": "Michelle Yates",
+            "profileUrl": "https://www.instagram.com/yatesnutrition",
+            "followersK": 69.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Nycole",
+            "profileUrl": "https://www.instagram.com/fitmom.nycole",
+            "followersK": 32.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Maria",
+            "profileUrl": "https://www.instagram.com/miafrankie_",
+            "followersK": 4.35,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Cameron",
+            "profileUrl": "https://www.instagram.com/thecameronshift",
+            "followersK": 12.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Anisa",
+            "profileUrl": "https://www.instagram.com/astoldbyanisa",
+            "followersK": 1.626,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Melissa Baswell Williams\nBubby and Bean",
+            "profileUrl": "https://www.instagram.com/bubbyandbean",
+            "followersK": 32.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Bianca Cloxton",
+            "profileUrl": "https://www.instagram.com/biancacloxton",
+            "followersK": 30.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Healthy lifestyle"
+          },
+          {
+            "name": "Natalie Rex",
+            "profileUrl": "https://www.instagram.com/natalliejeann",
+            "followersK": 5.559,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Shipped / Ordered",
+            "feature": "法學生 健身"
+          },
+          {
+            "name": "Jules Nguyen",
+            "profileUrl": "https://www.instagram.com/jules.nguyenn",
+            "followersK": 2.148,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Asian 健康 漂亮vlogger"
+          },
+          {
+            "name": "Domenique Trupia",
+            "profileUrl": "https://www.instagram.com/domenique_trupia",
+            "followersK": 355.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Kateri Rosenberg",
+            "profileUrl": "https://www.instagram.com/katrosenbergrd",
+            "followersK": 1.996,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Dietitian"
+          },
+          {
+            "name": "Tessa Castellanos",
+            "profileUrl": "https://www.instagram.com/girlcalledtessa",
+            "followersK": 36.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Hiker"
+          },
+          {
+            "name": "Nathan Salway",
+            "profileUrl": "https://www.instagram.com/solo_salway",
+            "followersK": 7.256,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Lifestyle / Travel"
+          },
+          {
+            "name": "Courtney Graza",
+            "profileUrl": "https://www.instagram.com/thecolorfulcourtney",
+            "followersK": 14.6,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Vegan"
+          },
+          {
+            "name": "Hari Tahov",
+            "profileUrl": "https://www.instagram.com/haritahov",
+            "followersK": 342.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Vegan"
+          },
+          {
+            "name": "Zuleyma B",
+            "profileUrl": "https://www.instagram.com/zuleyma2.0",
+            "followersK": 83.9,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Vegan"
+          },
+          {
+            "name": "Tiffany",
+            "profileUrl": "https://www.instagram.com/yourneighborhoodvegan",
+            "followersK": 7.2,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Vegan"
+          },
+          {
+            "name": "Robin Means",
+            "profileUrl": "https://www.instagram.com/vegandollhouse",
+            "followersK": 8.386,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Vegan"
+          },
+          {
+            "name": "Toni Okamoto",
+            "profileUrl": "https://www.instagram.com/plantbasedonabudget",
+            "followersK": 641.6,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Vegan"
+          },
+          {
+            "name": "Bianca Fernandez",
+            "profileUrl": "https://www.instagram.com/bitesbybianca",
+            "followersK": 105.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Vegan"
+          },
+          {
+            "name": "Deanne Ferrer",
+            "profileUrl": "https://www.instagram.com/deanneferrer",
+            "followersK": 2.003,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Vegan"
+          },
+          {
+            "name": "Allison Jocelyn",
+            "profileUrl": "https://www.instagram.com/allisonjocelynn",
+            "followersK": 11.7,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Vlogger"
+          },
+          {
+            "name": "Kendall Munch",
+            "profileUrl": "https://www.instagram.com/kendall.munch",
+            "followersK": 23.7,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "家庭 vlogger"
+          },
+          {
+            "name": "Haley Gaylor",
+            "profileUrl": "https://www.instagram.com/theeditbyhal",
+            "followersK": 5.366,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "時尚 美妝"
+          },
+          {
+            "name": "Anushka Gupta",
+            "profileUrl": "https://www.instagram.com/anushka_wanders",
+            "followersK": 78.7,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "粉絲多 喜歡產品"
+          },
+          {
+            "name": "Jee Hyo Kim",
+            "profileUrl": "https://www.instagram.com/premed_in30s",
+            "followersK": 28.6,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "醫生 Asian 漂亮"
+          }
+        ]
+      },
+      "TikTok": {
+        "total": 21,
+        "tiers": {
+          "PR Box": 17,
+          "Paid Collab": 4
+        },
+        "phases": {
+          "Shipped / Ordered": 4,
+          "Completed": 4,
+          "Outreached (Waiting)": 12,
+          "Rejected": 1
+        },
+        "posting": {
+          "(空白)": 18,
+          "Posted": 3
+        },
+        "followersK": {
+          "under10": 10,
+          "from10To50": 8,
+          "over50": 3,
+          "median": 10.7
+        },
+        "paidCollaborations": {
+          "count": 4,
+          "recordedAmount": 830.0,
+          "averageRate": 207.5
+        },
+        "topFeatures": [
+          [
+            "Workout Lifestyle",
+            6
+          ],
+          [
+            "Nursing student",
+            2
+          ],
+          [
+            "Nursing school學生",
+            1
+          ],
+          [
+            "Asian 健康 漂亮vlogger",
+            1
+          ],
+          [
+            "Asian/漂亮/vlogger",
+            1
+          ],
+          [
+            "忙綠職業 WIEIAD",
+            1
+          ],
+          [
+            "護士",
+            1
+          ],
+          [
+            "Coffee hunter",
+            1
+          ],
+          [
+            "健身 時尚 vlogger",
+            1
+          ],
+          [
+            "家庭 vlogger",
+            1
+          ],
+          [
+            "忙碌工作 生活",
+            1
+          ],
+          [
+            "護士 時尚 vlogger",
+            1
+          ],
+          [
+            "Tech大廠",
+            1
+          ],
+          [
+            "旅遊 白女 漂亮",
+            1
+          ],
+          [
+            "Mom, Banker",
+            1
+          ]
+        ],
+        "followersSourceCounts": {
+          "sheet": 21
+        },
+        "followersCheckedAt": "",
+        "creators": [
+          {
+            "name": "Hannah Lee",
+            "profileUrl": "https://www.tiktok.com/@hannaheunlee",
+            "followersK": 10.7,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Nursing school學生"
+          },
+          {
+            "name": "Hina Nakamura",
+            "profileUrl": "https://www.tiktok.com/@hinadiary77",
+            "followersK": 7.312,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Completed",
+            "feature": "Asian 健康 漂亮vlogger"
+          },
+          {
+            "name": "Chelsea Lu",
+            "profileUrl": "https://www.tiktok.com/@chlsealu",
+            "followersK": 11.8,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Completed",
+            "feature": "Asian/漂亮/vlogger"
+          },
+          {
+            "name": "Angelia Liu",
+            "profileUrl": "https://www.tiktok.com/@liacliu",
+            "followersK": 14.2,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Completed",
+            "feature": "忙綠職業 WIEIAD"
+          },
+          {
+            "name": "Heather Hong",
+            "profileUrl": "https://www.tiktok.com/@withloveeheather",
+            "followersK": 2.354,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "Paid Collab",
+            "phase": "Completed",
+            "feature": "護士"
+          },
+          {
+            "name": "Erin",
+            "profileUrl": "https://www.tiktok.com/@itserin365",
+            "followersK": 0.971,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Coffee hunter"
+          },
+          {
+            "name": "Samantha Reyes",
+            "profileUrl": "https://www.tiktok.com/@samantha_reyes",
+            "followersK": 1.254,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Workout Lifestyle"
+          },
+          {
+            "name": "Mya Miller",
+            "profileUrl": "https://www.tiktok.com/@myarosemiller_",
+            "followersK": 64.7,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Workout Lifestyle"
+          },
+          {
+            "name": "Brooke",
+            "profileUrl": "https://www.tiktok.com/@brookeoberhauser",
+            "followersK": 24.6,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Workout Lifestyle"
+          },
+          {
+            "name": "Liana",
+            "profileUrl": "https://www.tiktok.com/@liana.yelfimov",
+            "followersK": 0.833,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Workout Lifestyle"
+          },
+          {
+            "name": "India Gants",
+            "profileUrl": "https://www.tiktok.com/@indiagants",
+            "followersK": 328.2,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Workout Lifestyle"
+          },
+          {
+            "name": "Taylor Bailey",
+            "profileUrl": "https://www.tiktok.com/@taylorebailey",
+            "followersK": 6.062,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Workout Lifestyle"
+          },
+          {
+            "name": "Lauren",
+            "profileUrl": "https://www.tiktok.com/@laurenbatschh",
+            "followersK": 128.8,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "健身 時尚 vlogger"
+          },
+          {
+            "name": "Emma",
+            "profileUrl": "https://www.tiktok.com/@emmaccomp",
+            "followersK": 15.4,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "家庭 vlogger"
+          },
+          {
+            "name": "Hannah Bowel",
+            "profileUrl": "https://www.tiktok.com/@hannahbbowles",
+            "followersK": 1.516,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "忙碌工作 生活"
+          },
+          {
+            "name": "Sab",
+            "profileUrl": "https://www.tiktok.com/@fromsabyang",
+            "followersK": 25.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "護士 時尚 vlogger"
+          },
+          {
+            "name": "Rowan",
+            "profileUrl": "https://www.tiktok.com/@xoxo_rorooo",
+            "followersK": 2.454,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Outreached (Waiting)",
+            "feature": "Tech大廠"
+          },
+          {
+            "name": "Mira",
+            "profileUrl": "https://www.tiktok.com/@mirapiaaa",
+            "followersK": 21.0,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Rejected",
+            "feature": "旅遊 白女 漂亮"
+          },
+          {
+            "name": "Molly",
+            "profileUrl": "https://www.tiktok.com/@molalollycase",
+            "followersK": 5.523,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Mom, Banker"
+          },
+          {
+            "name": "Olivia Hart",
+            "profileUrl": "https://www.tiktok.com/@oliviaaa.hart",
+            "followersK": 0.658,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Nursing student"
+          },
+          {
+            "name": "Chloejacquee",
+            "profileUrl": "https://www.tiktok.com/@chloejacquee",
+            "followersK": 27.6,
+            "followersExact": null,
+            "followersSource": "sheet",
+            "followersCheckedAt": "",
+            "tier": "PR Box",
+            "phase": "Shipped / Ordered",
+            "feature": "Nursing student"
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "name": "Crunch and Brunch",
+      "eventDetails": "6/7 #1 Demo \nyoga和服裝店合辦的活動 在dt的服裝店裡 室內\n只有做試喝沒有售賣 免費給在場的人一包\n反應很棒 很多人都嘗試 都很感興趣\n\n7/19 #2 Demo \n在西雅圖dt的Pier 62 只有做試喝沒有售賣 追蹤免費一包\n反應很棒 大家排排隊試喝",
+      "notes": "",
+      "profileUrl": "https://www.instagram.com/crunch.n.brunch/"
+    },
+    {
+      "name": "Between the covers Book Club",
+      "eventDetails": "Tikok和Insta都有發文review 流量低反響不好 \n不建議再sponsor無法到場的活動",
+      "notes": "7/22寄出 各4 試喝\n8/7寄出24包",
+      "profileUrl": "https://www.tiktok.com/@btcbookclubindy"
+    },
+    {
+      "name": "Jetset Modern Pilates",
+      "eventDetails": "Followed up",
+      "notes": "8/7 寄出抹茶/香蕉 各3試喝",
+      "profileUrl": "https://www.tiktok.com/@jetsetpilatessout?lang=en"
+    },
+    {
+      "name": "Seattle Bouldering Project [UD]",
+      "eventDetails": "6/19 #1 Demo 抹茶&香蕉\n反應很好 很多學生試喝\n\n7/27 #2 Demo 抹茶&香蕉\n人比較少 但大家都很感興趣\n\n10/7 #3 Demo 四口味\n開學季 過了六點超多人\nServe 15包 110+杯\n很值得 繼續做！\n\n11月 #4 Demo 四口味",
+      "notes": "6/18 開始訂購抹茶&香蕉\n10/1 開始訂購楓葉&巧克力",
+      "profileUrl": "https://www.instagram.com/seattleboulderingproject/"
+    },
+    {
+      "name": "Seattle Bouldering Project [Fremont]",
+      "eventDetails": "",
+      "notes": "9.20 reached out\n回覆說正在尋找其他類型的產品\n10.1 追問在找什麼 詢問是否可以做pop up\n10.6 回覆Spring season再聯絡一次",
+      "profileUrl": "https://www.instagram.com/seattleboulderingproject/"
+    },
+    {
+      "name": "Seattle Bouldering Project [Poplar]",
+      "eventDetails": "10/13 #1 Pop-up 四口味\n人超多 大家都很感興趣 小孩大人都喜歡 都問哪裡可以買\nServe 15包 110+杯\n賣出八包\n很值得 有機會繼續做！\n\n11月 #2 Pop-up 四口味",
+      "notes": "9.20 reached out\n回覆說正在尋找其他類型的產品\n10.1 Followed up\n10.2 電話 manager不在\n10.3 早上打\n10.3 表示位置不夠擺放新產品\n詢問是否可以做pop up",
+      "profileUrl": "https://www.instagram.com/seattleboulderingproject/"
+    },
+    {
+      "name": "Reform Pilates",
+      "eventDetails": "9.27 #1 Pop-up\nyoga和服裝店合辦的活動 在北西雅圖outlet的服裝店裡 室內\n做試喝和售賣 詢問追蹤社媒\n參加的人有一半都有來試喝 曝光大 賣出15袋\n不建議選擇單次課時段 人流無法控制",
+      "notes": "8/7 寄出 抹茶&香蕉 各6 試喝",
+      "profileUrl": "https://www.instagram.com/reformpilateslake?igsh=ejVqNTBmcWFka3c2"
+    },
+    {
+      "name": "Bodyrok (Belltown)",
+      "eventDetails": "9.26 #1 Pop-up\n預約制上課 人流很少 三個小時只有serve四包\n做試喝和售賣 詢問追蹤社媒\n人流很少 賣出15袋",
+      "notes": "",
+      "profileUrl": "https://www.instagram.com/bodyrokseattle/"
+    },
+    {
+      "name": "Hermvmt",
+      "eventDetails": "6.20 #1 Demo\n遇到很多influencer 商業性重 曝光率高",
+      "notes": "",
+      "profileUrl": "https://www.instagram.com/hermvmt/"
+    },
+    {
+      "name": "Barre3 [Bellevue]",
+      "eventDetails": "11.22 #1 Demo",
+      "notes": "寄出邀請 未回覆\n10/26 說可以去店裡popup 詢問是否有活動可以參加\n11/17 有soundbath活動可以參加",
+      "profileUrl": "https://www.instagram.com/barre3ballard/"
+    },
+    {
+      "name": "Plod Sqad Seattle",
+      "eventDetails": "",
+      "notes": "寄出邀請 未回覆",
+      "profileUrl": "https://www.instagram.com/plodsquadsea/"
+    },
+    {
+      "name": "24hr fitness",
+      "eventDetails": "",
+      "notes": "",
+      "profileUrl": ""
+    },
+    {
+      "name": "Solicore [SLU / Capitol Hill]",
+      "eventDetails": "",
+      "notes": "網站寄出申請 未回覆",
+      "profileUrl": "https://www.instagram.com/solidcore/"
+    },
+    {
+      "name": "Barre3 [Ballard]",
+      "eventDetails": "",
+      "notes": "寄出邀請 未回覆",
+      "profileUrl": "https://www.instagram.com/barre3ballard/"
+    },
+    {
+      "name": "Barre3 [Capitol Hill]",
+      "eventDetails": "",
+      "notes": "寄出邀請 未回覆",
+      "profileUrl": "https://www.instagram.com/barre3ballard/"
+    },
+    {
+      "name": "CorePower Yoga [Fremont/ Ballard/ Greenlake]",
+      "eventDetails": "",
+      "notes": "寄出邀請 未回覆",
+      "profileUrl": "https://www.instagram.com/corepoweryoga"
+    }
+  ],
+  "scope": {
+    "onlineGid": "1088293251",
+    "eventsGid": "1292223053",
+    "readOnly": true
+  },
+  "instagramFollowerSync": {
+    "configured": false,
+    "updatedProfiles": 0,
+    "lastUpdatedAt": ""
+  },
+  "publicInstagramFollowerSync": {
+    "updatedProfiles": 0,
+    "source": "public-profile-page"
+  },
+  "followerHistoryDays": 1
+}
